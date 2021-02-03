@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://travis-ci.com/RosenUrkov/docker-react.svg?branch=master
+![Travis](https://travis-ci.com/RosenUrkov/docker-react.svg?branch=master)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
